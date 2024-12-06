@@ -1,5 +1,3 @@
 ---
-title: Portfolio of Meike Lenting
----
-description: Hello
+Portfolio of Meike Lenting
 ---
